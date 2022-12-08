@@ -1,6 +1,4 @@
-<body>
 
-</style>
 <div class="img">
   <img src="https://i.imgur.com/Ewq69ET.gif" alt="1photo">
 </div>
