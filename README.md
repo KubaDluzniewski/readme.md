@@ -1,20 +1,4 @@
 <body>
-<style>
-  .img{
-  margin-top: 10vh;
-    text-align: center;
-  }
-  .main-text{
-    padding-top: 10vh;
-    text-align: center;
-  }
-  .badges{
-    align-items: center;
-    text-align: center;
-  }
-  body{
-    background-color: #555555;
-  }
 
 </style>
 <div class="img">
